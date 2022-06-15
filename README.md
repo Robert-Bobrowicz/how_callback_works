@@ -2,7 +2,11 @@
 
 This is to show how Promise works.
 
-### node app.js to run
+#### node app.js
+
+or 
+
+#### node try_catch.js
 
 Press Ctrl + Shift + I to see results in a console.
 
