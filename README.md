@@ -1,4 +1,4 @@
-# How Promise works
+## How Promise works
 
 This is to show how Promise works.
 
