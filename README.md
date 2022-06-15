@@ -10,4 +10,5 @@ or
 
 Press Ctrl + Shift + I to see results in a console.
 
-Then try to change error code to see a difference.
+Try to change error code to see a difference in app.js.
+Try to change date to see a difference in try_catch.js.
