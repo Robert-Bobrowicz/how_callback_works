@@ -1,4 +1,4 @@
-//this is to show how callback function works
+//this is to show how Promise() works
 
 //steps with asynchronous functions to be done in appropriate order
 
