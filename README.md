@@ -1,6 +1,6 @@
-# How callback function works
+# How Promise works
 
-This is to show how callback functions work.
+This is to show how Promise works.
 
 ## node app.js to run
 
