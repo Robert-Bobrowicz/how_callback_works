@@ -2,7 +2,7 @@
 
 This is to show how Promise works.
 
-## node app.js to run
+### node app.js to run
 
 Press Ctrl + Shift + I to see results in a console.
 

@@ -14,7 +14,7 @@ const newUser = {
     age: 34
 };
 
-const error = 200; //try to change to equal to 404 to see a difference
+const error = 200; //try to change to equal to 404 to see a difference in a console results
 
 const getUserData = (user) => {
     return new Promise((resolve, reject) => {
