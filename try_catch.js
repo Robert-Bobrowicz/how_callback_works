@@ -12,7 +12,7 @@ const today = new Date();
 const myFlight = () => {
     if (flightData.departure.getTime() > today.getTime()) {
         flightData.departure = flightData.departure.toLocaleString();
-        console.log(`Your flight data to ${flightData.destination} will depart on: `);
+        console.log(`Your flight details to ${flightData.destination}: `);
         return flightData;
     } else {
         throw `We are sorry to inform you that your plane to ${flightData.destination} departed on ${flightData.departure.toDateString()}.`;
